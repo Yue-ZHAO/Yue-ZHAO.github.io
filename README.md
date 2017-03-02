@@ -1,4 +1,27 @@
-## Welcome to GitHub Pages
+## About Me
+
+
+## Research Interest
+Learning Analytics, User Behaviors, User modeling, Temporal Analysis, Information Retrieval
+
+## Project
+1. The impact of assessments on MOOC learner behaviors
+2. Estimate users' temporal intention 
+3. Sub-document timestamping 
+
+## Professional Activities
+
+- Invited reviewer, [IEEE Transactions on Learning Technologies](https://www.computer.org/web/tlt;jsessionid=0060234d0f580a4851b548ea37d5)
+
+## Selected Awards
+
+- China Scholarship Council (CSC) Scholarship (2014-2018)
+- SIGIR Student Travel Grant (2016)
+
+## Contact
+
+
+<!--## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,3 +58,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-->
