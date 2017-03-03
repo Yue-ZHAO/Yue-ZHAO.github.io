@@ -39,7 +39,7 @@ My publication can be found on [Google Scholar](https://scholar.google.nl/citati
 
 ## Projects
 
-- Changes of MOOC learners’ behaviours before and after their passing [[Project Page](https://yue-zhao.github.io/umap2017/)]
+- Changes of MOOC Learners’ Behaviours Before and After Passing [[Project Page](https://yue-zhao.github.io/umap2017/)]
 
 - Estimation of Users' Temporal Query Intents [[Project Page]()]
 
