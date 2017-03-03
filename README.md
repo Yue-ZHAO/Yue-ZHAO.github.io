@@ -1,10 +1,22 @@
 ## About Me
+I am a PhD student at the [Web Information Systems (WIS) Group](http://www.wis.ewi.tudelft.nl/) of the [Faculty of Engineering, Mathematics and Computer Science (EEMCS/EWI)](http://www.ewi.tudelft.nl/), Delft University of Technology.
 
+Currently, I mainly focus on understanding MOOC leaners' behaviors based on data anaytics. Specifically, I am interested in acquiring knowledge about the dynamics of MOOC learners' behaviors based on sequencial data analysis.
+
+My promoter and co-promoter are [Geert-Jan Houben](http://www.wis.ewi.tudelft.nl/houben/) and [Claudia Hauff](http://www.wis.ewi.tudelft.nl/hauff/).
 
 ## Research Interest
-Learning Analytics, User Behaviors, User modeling, Temporal Analysis, Information Retrieval
+
+- Learning Analytics 
+- User Behavior
+- User Modeling
+- Temporal Analysis
+- Information Retrieval
 
 ## Project
+
+My publication can be found on [Google Scholar](https://scholar.google.nl/citations?user=e6zrlt4AAAAJ&hl=en)
+
 1. The impact of assessments on MOOC learner behaviors
 2. Estimate users' temporal intention 
 3. Sub-document timestamping 
@@ -19,6 +31,16 @@ Learning Analytics, User Behaviors, User modeling, Temporal Analysis, Informatio
 - SIGIR Student Travel Grant (2016)
 
 ## Contact
+
+**Mailing Address**
+
+EEMCS, Web Information Systems 
+P.O. Box 5031, 2600 GA Delft 
+The Netherlands 
+
+**Office:** HB 08.130 
+
+**Email:** y-zhao-1[at]tudelft.nl or zhaoyue.89[at]gmail.com
 
 
 <!--## Welcome to GitHub Pages
