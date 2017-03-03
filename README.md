@@ -15,21 +15,21 @@ My promoter is [Prof. dr. ir. Geert-Jan Houben](http://www.wis.ewi.tudelft.nl/ho
 
 ## Publications
 
-My publication can be found on [Google Scholar](https://scholar.google.nl/citations?user=e6zrlt4AAAAJ&hl=en)
+My publication can be found on [Google Scholar](https://scholar.google.nl/citations?user=e6zrlt4AAAAJ&hl=en).
 
 **2016** 
 
-- Zhao, Yue, and Claudia Hauff. "Sub-document Timestamping: A Study on the Content Creation Dynamics of Web Documents." International Conference on Theory and Practice of Digital Libraries. Springer International Publishing, 2016. [PDF](https://chauff.github.io/documents/publications/TPDL2016-zhao.pdf)
+- Zhao, Yue, and Claudia Hauff. "Sub-document Timestamping: A Study on the Content Creation Dynamics of Web Documents." International Conference on Theory and Practice of Digital Libraries. Springer International Publishing, 2016. [[PDF](https://chauff.github.io/documents/publications/TPDL2016-zhao.pdf)]
 
-- Zhao, Yue, and Claudia Hauff. "Temporal Query Intent Disambiguation using Time-Series Data." Proceedings of the 39th International ACM SIGIR conference on Research and Development in Information Retrieval. ACM, 2016. [PDF](http://dl.acm.org/citation.cfm?id=2914767)
+- Zhao, Yue, and Claudia Hauff. "Temporal Query Intent Disambiguation using Time-Series Data." Proceedings of the 39th International ACM SIGIR conference on Research and Development in Information Retrieval. ACM, 2016. [[PDF](http://dl.acm.org/citation.cfm?id=2914767)]
 
-- Zhao, Yue, and Claudia Hauff. "WIS@ the NTCIR-12 Temporalia-2 Task." Proceedings of the 12th NTCIR Conference. 2016. [PDF](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings12/pdf/ntcir/TEMPORALIA/04-NTCIR12-TEMPORALIA-ZhaoY.pdf)
+- Zhao, Yue, and Claudia Hauff. "WIS@ the NTCIR-12 Temporalia-2 Task." Proceedings of the 12th NTCIR Conference. 2016. [[PDF](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings12/pdf/ntcir/TEMPORALIA/04-NTCIR12-TEMPORALIA-ZhaoY.pdf)]
 
 **2015**
 
-- Zhao, Yue, and Claudia Hauff. "Sub-document timestamping of web documents." Proceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval. ACM, 2015.[PDF](http://www.st.ewi.tudelft.nl/~hauff/papers/SIGIR2015-Zhao.pdf)
+- Zhao, Yue, and Claudia Hauff. "Sub-document timestamping of web documents." Proceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval. ACM, 2015. [[PDF](http://www.st.ewi.tudelft.nl/~hauff/papers/SIGIR2015-Zhao.pdf)]
 
-- Zhao, Yue, and Claudia Hauff. "Temporal information retrieval revisited: a focused study on the web." Proceedings of the 6th Symposium on Future Directions in Information Access. British Computer Society, 2015. [PDF](https://www.researchgate.net/profile/Yue_Zhao94/publication/300332941_Temporal_Information_Retrieval_Revisited_A_Focused_Study_on_the_Web/links/575e97f308aed884621b4eba.pdf)
+- Zhao, Yue, and Claudia Hauff. "Temporal information retrieval revisited: a focused study on the web." Proceedings of the 6th Symposium on Future Directions in Information Access. British Computer Society, 2015. [[PDF](https://www.researchgate.net/profile/Yue_Zhao94/publication/300332941_Temporal_Information_Retrieval_Revisited_A_Focused_Study_on_the_Web/links/575e97f308aed884621b4eba.pdf)]
 
 **2013**
 
