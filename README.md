@@ -37,6 +37,17 @@ My publication can be found on [Google Scholar](https://scholar.google.nl/citati
 
 - Zhao, Yue, et al. "Generating malware signature using transcoding from sequential data to amino acid sequence." High Performance Computing and Simulation (HPCS), 2013 International Conference on. IEEE, 2013.
 
+## Projects
+
+- Changes of MOOC learners’ behaviours before and after their passing [[Project Page](https://yue-zhao.github.io/umap2017/)]
+
+- Estimation of Users' Temporal Query Intents [[Project Page]()]
+
+- Sub-Document Timestamping [[Project Page]()]
+
+
+
+
 ## Professional Activities
 
 - Invited reviewer, [IEEE Transactions on Learning Technologies](https://www.computer.org/web/tlt;jsessionid=0060234d0f580a4851b548ea37d5)
