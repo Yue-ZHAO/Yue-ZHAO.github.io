@@ -17,6 +17,11 @@ My promoter is [Prof. dr. ir. Geert-Jan Houben](http://www.wis.ewi.tudelft.nl/ho
 
 My publication can be found on [Google Scholar](https://scholar.google.nl/citations?user=e6zrlt4AAAAJ&hl=en).
 
+**2017**
+- Yue Zhao, Dan Davis, Guanliang Chen, Christoph Lofi, Claudia Hauff and Geert-Jan Houben. "Certificate Achievement Unlocked: How Does MOOC Learners' Behaviour Change?" UMAP'17 Adjunct. 2017.
+
+- Yue Zhao, Christoph Lofi, and Claudia Hauff. "Scalable Mind-Wandering Detection for MOOCs: A Webcam-Based Approach." 12th European Conference on Technology Enhanced Learning. 2017
+
 **2016** 
 
 - Zhao, Yue, and Claudia Hauff. "Sub-document Timestamping: A Study on the Content Creation Dynamics of Web Documents." International Conference on Theory and Practice of Digital Libraries. Springer International Publishing, 2016. [[PDF](https://chauff.github.io/documents/publications/TPDL2016-zhao.pdf)]
@@ -39,6 +44,8 @@ My publication can be found on [Google Scholar](https://scholar.google.nl/citati
 
 ## Projects
 
+- Mind-Wandering Detection with Webcam-Based Eye Tracking on MOOC learners 
+
 - Changes of MOOC Learners’ Behaviours Before and After Passing [[Project Page](https://yue-zhao.github.io/umap2017/)]
 
 - Estimation of Users' Temporal Query Intents [[Project Page]()]
@@ -55,7 +62,10 @@ My publication can be found on [Google Scholar](https://scholar.google.nl/citati
 ## Selected Awards
 
 - China Scholarship Council (CSC) Scholarship (2014-2018)
+- ESSIR scholarships (2015)
+- NTCIR Student Travel Grant (2016)
 - SIGIR Student Travel Grant (2016)
+- UMAP Student Support (2017)
 
 ## Contact
 
