@@ -1,7 +1,7 @@
 ## About Me
 I am a PhD student at the [Web Information Systems (WIS) Group](http://www.wis.ewi.tudelft.nl/) of the [Faculty of Engineering, Mathematics and Computer Science (EEMCS/EWI)](http://www.ewi.tudelft.nl/), Delft University of Technology. 
 
-Currently, I mainly focus on understanding MOOC leaners' behaviors based on data anaytics. Specifically, I am interested in acquiring knowledge about the dynamics of MOOC learners' behaviors based on sequencial data analysis.
+Currently, I mainly focus on understanding MOOC learners’ behaviors based on data analytics. Specifically, I am interested in acquiring knowledge about the dynamics of MOOC learners’ behaviors based on sequential data analysis.
 
 My promoter is [Prof. dr. ir. Geert-Jan Houben](http://www.wis.ewi.tudelft.nl/houben/) and my daily supervisor is [Dr. Claudia Hauff](http://www.wis.ewi.tudelft.nl/hauff/).
 
