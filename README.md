@@ -19,39 +19,39 @@ My publication can be found on [Google Scholar](https://scholar.google.nl/citati
 
 ***2017***
 
-- **Yue Zhao**, Dan Davis, Guanliang Chen, Christoph Lofi, Claudia Hauff and Geert-Jan Houben. "Certificate Achievement Unlocked: How Does MOOC Learners' Behaviour Change?" UMAP'17 Adjunct. 2017.
+- **Yue Zhao**, Dan Davis, Guanliang Chen, Christoph Lofi, Claudia Hauff and Geert-Jan Houben. "Certificate Achievement Unlocked: How Does MOOC Learners' Behaviour Change?" UMAP'17 Adjunct. 2017. [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/UMAP_2017_Passers.pdf), [Poster](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Posters/UMAP_2017_Passers.pdf)]
 
-- **Yue Zhao**, Christoph Lofi, and Claudia Hauff. "Scalable Mind-Wandering Detection for MOOCs: A Webcam-Based Approach." 12th European Conference on Technology Enhanced Learning. 2017
+- **Yue Zhao**, Christoph Lofi, and Claudia Hauff. "Scalable Mind-Wandering Detection for MOOCs: A Webcam-Based Approach." 12th European Conference on Technology Enhanced Learning. 2017 [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/ECTEL_2017_mindwandering.pdf)]
 
 ***2016*** 
 
-- **Yue Zhao** and Claudia Hauff. "Sub-document Timestamping: A Study on the Content Creation Dynamics of Web Documents." International Conference on Theory and Practice of Digital Libraries. Springer International Publishing, 2016. [[PDF](https://chauff.github.io/documents/publications/TPDL2016-zhao.pdf)]
+- **Yue Zhao** and Claudia Hauff. "Sub-document Timestamping: A Study on the Content Creation Dynamics of Web Documents." International Conference on Theory and Practice of Digital Libraries. Springer International Publishing, 2016. [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/TPDL_2016_Timestamp.pdf),[Slides](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Slides/TPDL_2016_Timestamp.pdf)]
 
-- **Yue Zhao** and Claudia Hauff. "Temporal Query Intent Disambiguation using Time-Series Data." Proceedings of the 39th International ACM SIGIR conference on Research and Development in Information Retrieval. ACM, 2016. [[PDF](http://dl.acm.org/citation.cfm?id=2914767)]
+- **Yue Zhao** and Claudia Hauff. "Temporal Query Intent Disambiguation using Time-Series Data." Proceedings of the 39th International ACM SIGIR conference on Research and Development in Information Retrieval. ACM, 2016. [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/SIGIR_2016_TemporalIntention.pdf), [Poster](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Posters/SIGIR_2016_TemporalIntention.pdf)]
 
-- **Yue Zhao** and Claudia Hauff. "WIS@ the NTCIR-12 Temporalia-2 Task." Proceedings of the 12th NTCIR Conference. 2016. [[PDF](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings12/pdf/ntcir/TEMPORALIA/04-NTCIR12-TEMPORALIA-ZhaoY.pdf)]
+- **Yue Zhao** and Claudia Hauff. "WIS@ the NTCIR-12 Temporalia-2 Task." Proceedings of the 12th NTCIR Conference. 2016. [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/NTCIR_2016_TEMPORALIA.pdf), [Poster](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Posters/NTCIR_2016_TEMPORALIA.pdf), [Slides](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Slides/NTCIR_2016_TEMPORALIA.pdf)]
 
 ***2015***
 
-- **Yue Zhao** and Claudia Hauff. "Sub-document timestamping of web documents." Proceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval. ACM, 2015. [[PDF](http://www.st.ewi.tudelft.nl/~hauff/papers/SIGIR2015-Zhao.pdf)]
+- **Yue Zhao** and Claudia Hauff. "Sub-document timestamping of web documents." Proceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval. ACM, 2015. [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/SIGIR_2015_SubDoc.pdf), [Poster](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Posters/SIGIR_2015_SubDoc.pdf)]
 
-- **Yue Zhao** and Claudia Hauff. "Temporal information retrieval revisited: a focused study on the web." Proceedings of the 6th Symposium on Future Directions in Information Access. British Computer Society, 2015. [[PDF](https://www.researchgate.net/profile/Yue_Zhao94/publication/300332941_Temporal_Information_Retrieval_Revisited_A_Focused_Study_on_the_Web/links/575e97f308aed884621b4eba.pdf)]
+- **Yue Zhao** and Claudia Hauff. "Temporal information retrieval revisited: a focused study on the web." Proceedings of the 6th Symposium on Future Directions in Information Access. British Computer Society, 2015. [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/FDIA_2015_TIR.pdf)]
 
 ***2013***
 
-- Xiaoyong Li, Yijie Wang, **Yue Zhao**, Yuan Wang and Xiaoling Li. "GPS: A General Framework for Parallel Queries over Data Streams in Cloud." High Performance Computing and Communications & 2013 IEEE International Conference on Embedded and Ubiquitous Computing (HPCC_EUC), 2013 IEEE 10th International Conference on. IEEE, 2013.
+- Xiaoyong Li, Yijie Wang, **Yue Zhao**, Yuan Wang and Xiaoling Li. "GPS: A General Framework for Parallel Queries over Data Streams in Cloud." High Performance Computing and Communications & 2013 IEEE International Conference on Embedded and Ubiquitous Computing (HPCC_EUC), 2013 IEEE 10th International Conference on. IEEE, 2013. [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/HPCC_2013.pdf)]
 
-- **Yue Zhao**, Yong Tang, Yijie Wang, Shuhui Chen. "Generating malware signature using transcoding from sequential data to amino acid sequence." High Performance Computing and Simulation (HPCS), 2013 International Conference on. IEEE, 2013.
+- **Yue Zhao**, Yong Tang, Yijie Wang, Shuhui Chen. "Generating malware signature using transcoding from sequential data to amino acid sequence." High Performance Computing and Simulation (HPCS), 2013 International Conference on. IEEE, 2013. [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/HPCS_2013_Malware.pdf)]
 
 ## Projects
 
-- Mind-Wandering Detection with Webcam-Based Eye Tracking on MOOC learners 
+- Mind-Wandering Detection with Webcam-Based Eye Tracking on MOOC learners [[Project Page](https://yue-zhao.github.io/MWDET_Project/)]
 
 - Changes of MOOC Learners’ Behaviours Before and After Passing [[Project Page](https://yue-zhao.github.io/umap2017/)]
 
-- Estimation of Users' Temporal Query Intents [[Project Page]()]
+- Estimation of Users' Temporal Query Intents 
 
-- Sub-Document Timestamping [[Project Page]()]
+- Sub-Document Timestamping
 
 
 ## Professional Activities
