@@ -17,11 +17,15 @@ My promoter is [Prof. dr. ir. Geert-Jan Houben](http://www.wis.ewi.tudelft.nl/ho
 
 My publication can be found on [Google Scholar](https://scholar.google.nl/citations?user=e6zrlt4AAAAJ&hl=en).
 
+***2018***
+
+- Tarmo Robal\*, **Yue Zhao\***, Christoph Lofi and Claudia Hauff. "Webcam-based attention tracking in Online Learning: A Feasibility Study", IUI 2018 (\*: Equal Contribution).
+
 ***2017***
 
 - **Yue Zhao**, Dan Davis, Guanliang Chen, Christoph Lofi, Claudia Hauff and Geert-Jan Houben. "Certificate Achievement Unlocked: How Does MOOC Learners' Behaviour Change?" UMAP'17 Adjunct. 2017. [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/UMAP_2017_Passers.pdf), [Poster](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Posters/UMAP_2017_Passers.pdf)]
 
-- **Yue Zhao**, Christoph Lofi, and Claudia Hauff. "Scalable Mind-Wandering Detection for MOOCs: A Webcam-Based Approach." 12th European Conference on Technology Enhanced Learning. 2017 [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/ECTEL_2017_mindwandering.pdf)]
+- **Yue Zhao**, Christoph Lofi, and Claudia Hauff. "Scalable Mind-Wandering Detection for MOOCs: A Webcam-Based Approach." 12th European Conference on Technology Enhanced Learning. 2017 (Best Paper Nomination) [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/ECTEL_2017_mindwandering.pdf)]
 
 ***2016*** 
 
