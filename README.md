@@ -1,9 +1,9 @@
 ## About Me
 I am a PhD student at the [Web Information Systems (WIS) Group](http://www.wis.ewi.tudelft.nl/) of the [Faculty of Engineering, Mathematics and Computer Science (EEMCS/EWI)](http://www.ewi.tudelft.nl/), Delft University of Technology. 
 
-Currently, I mainly focus on understanding MOOC learners’ behaviors based on data analytics. Specifically, I am interested in acquiring knowledge about the dynamics of MOOC learners’ behaviors based on sequential data analysis.
+Currently, I mainly focus on understanding MOOC learner behaviors based on data analytics. Specifically, I am interested in using learning analytics to better understand learner engagement in MOOC learning.
 
-My promoter is [Prof. dr. ir. Geert-Jan Houben](http://www.wis.ewi.tudelft.nl/houben/) and my daily supervisor is [Dr. Claudia Hauff](http://www.wis.ewi.tudelft.nl/hauff/).
+My promoter is [Prof. dr. ir. Geert-Jan Houben](http://www.wis.ewi.tudelft.nl/houben/) and my co-promoters are [Dr. Claudia Hauff](http://www.wis.ewi.tudelft.nl/hauff/) and [Dr. Christoph Lofi](http://www.wis.ewi.tudelft.nl/lofi/).
 
 ## Research Interests
 
@@ -19,33 +19,39 @@ My publication can be found on [Google Scholar](https://scholar.google.nl/citati
 
 ***2018***
 
-- Tarmo Robal\*, **Yue Zhao\***, Christoph Lofi and Claudia Hauff. "Webcam-based attention tracking in Online Learning: A Feasibility Study", IUI 2018 (\*: Equal Contribution).
+- **Yue Zhao**, Tarmo Robal, Christoph Lofi and Claudia Hauff. "Can I Have a Mooc2Go, Please? On the Viability of Mobile vs. Stationary Learning". 13th European Conference on Technology Enhanced Learning. 2018. (**Best Paper Nomination**)
+
+- **Yue Zhao**, Tarmo Robal, Christoph Lofi and Claudia Hauff. "Stationary vs. Non-stationary Mobile Learning in MOOCs" Adjunct Publication of the 26th Conference on User Modeling, Adaptation and Personalization. 2018.
+
+- Tarmo Robal\*, **Yue Zhao\***, Christoph Lofi and Claudia Hauff. "IntelliEye: Enhancing MOOC Learners' Video Watching Experience through Real-Time Attention Tracking". Proceedings of the 29th on Hypertext and Social Media. 2018. (\*: Equal Contribution).
+
+- Tarmo Robal, **Yue Zhao**, Christoph Lofi and Claudia Hauff. "Webcam-based attention tracking in Online Learning: A Feasibility Study". 23rd International Conference on Intelligent User Interfaces. 2018.
 
 ***2017***
 
-- **Yue Zhao**, Dan Davis, Guanliang Chen, Christoph Lofi, Claudia Hauff and Geert-Jan Houben. "Certificate Achievement Unlocked: How Does MOOC Learners' Behaviour Change?" UMAP'17 Adjunct. 2017. [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/UMAP_2017_Passers.pdf), [Poster](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Posters/UMAP_2017_Passers.pdf)]
+- **Yue Zhao**, Dan Davis, Guanliang Chen, Christoph Lofi, Claudia Hauff and Geert-Jan Houben. "Certificate Achievement Unlocked: How Does MOOC Learners' Behaviour Change?". Adjunct Publication of the 25th Conference on User Modeling, Adaptation and Personalization. 2017. [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/UMAP_2017_Passers.pdf), [Poster](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Posters/UMAP_2017_Passers.pdf)]
 
-- **Yue Zhao**, Christoph Lofi, and Claudia Hauff. "Scalable Mind-Wandering Detection for MOOCs: A Webcam-Based Approach." 12th European Conference on Technology Enhanced Learning. 2017 (Best Paper Nomination) [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/ECTEL_2017_mindwandering.pdf)]
+- **Yue Zhao**, Christoph Lofi, and Claudia Hauff. "Scalable Mind-Wandering Detection for MOOCs: A Webcam-Based Approach". 12th European Conference on Technology Enhanced Learning. 2017 (**Best Paper Nomination**) [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/ECTEL_2017_mindwandering.pdf)]
 
 ***2016*** 
 
-- **Yue Zhao** and Claudia Hauff. "Sub-document Timestamping: A Study on the Content Creation Dynamics of Web Documents." International Conference on Theory and Practice of Digital Libraries. Springer International Publishing, 2016. [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/TPDL_2016_Timestamp.pdf),[Slides](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Slides/TPDL_2016_Timestamp.pdf)]
+- **Yue Zhao** and Claudia Hauff. "Sub-document Timestamping: A Study on the Content Creation Dynamics of Web Documents". International Conference on Theory and Practice of Digital Libraries. Springer International Publishing, 2016. [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/TPDL_2016_Timestamp.pdf),[Slides](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Slides/TPDL_2016_Timestamp.pdf)]
 
-- **Yue Zhao** and Claudia Hauff. "Temporal Query Intent Disambiguation using Time-Series Data." Proceedings of the 39th International ACM SIGIR conference on Research and Development in Information Retrieval. ACM, 2016. [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/SIGIR_2016_TemporalIntention.pdf), [Poster](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Posters/SIGIR_2016_TemporalIntention.pdf)]
+- **Yue Zhao** and Claudia Hauff. "Temporal Query Intent Disambiguation using Time-Series Data". Proceedings of the 39th International ACM SIGIR conference on Research and Development in Information Retrieval. ACM, 2016. [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/SIGIR_2016_TemporalIntention.pdf), [Poster](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Posters/SIGIR_2016_TemporalIntention.pdf)]
 
-- **Yue Zhao** and Claudia Hauff. "WIS@ the NTCIR-12 Temporalia-2 Task." Proceedings of the 12th NTCIR Conference. 2016. [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/NTCIR_2016_TEMPORALIA.pdf), [Poster](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Posters/NTCIR_2016_TEMPORALIA.pdf), [Slides](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Slides/NTCIR_2016_TEMPORALIA.pdf)]
+- **Yue Zhao** and Claudia Hauff. "WIS@ the NTCIR-12 Temporalia-2 Task". Proceedings of the 12th NTCIR Conference. 2016. [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/NTCIR_2016_TEMPORALIA.pdf), [Poster](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Posters/NTCIR_2016_TEMPORALIA.pdf), [Slides](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Slides/NTCIR_2016_TEMPORALIA.pdf)]
 
 ***2015***
 
-- **Yue Zhao** and Claudia Hauff. "Sub-document timestamping of web documents." Proceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval. ACM, 2015. [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/SIGIR_2015_SubDoc.pdf), [Poster](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Posters/SIGIR_2015_SubDoc.pdf)]
+- **Yue Zhao** and Claudia Hauff. "Sub-document timestamping of web documents". Proceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval. ACM, 2015. [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/SIGIR_2015_SubDoc.pdf), [Poster](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Posters/SIGIR_2015_SubDoc.pdf)]
 
-- **Yue Zhao** and Claudia Hauff. "Temporal information retrieval revisited: a focused study on the web." Proceedings of the 6th Symposium on Future Directions in Information Access. British Computer Society, 2015. [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/FDIA_2015_TIR.pdf)]
+- **Yue Zhao** and Claudia Hauff. "Temporal information retrieval revisited: a focused study on the web". Proceedings of the 6th Symposium on Future Directions in Information Access. British Computer Society, 2015. [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/FDIA_2015_TIR.pdf)]
 
 ***2013***
 
-- Xiaoyong Li, Yijie Wang, **Yue Zhao**, Yuan Wang and Xiaoling Li. "GPS: A General Framework for Parallel Queries over Data Streams in Cloud." High Performance Computing and Communications & 2013 IEEE International Conference on Embedded and Ubiquitous Computing (HPCC_EUC), 2013 IEEE 10th International Conference on. IEEE, 2013. [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/HPCC_2013.pdf)]
+- Xiaoyong Li, Yijie Wang, **Yue Zhao**, Yuan Wang and Xiaoling Li. "GPS: A General Framework for Parallel Queries over Data Streams in Cloud". High Performance Computing and Communications & 2013 IEEE International Conference on Embedded and Ubiquitous Computing (HPCC_EUC), 2013 IEEE 10th International Conference on. IEEE, 2013. [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/HPCC_2013.pdf)]
 
-- **Yue Zhao**, Yong Tang, Yijie Wang, Shuhui Chen. "Generating malware signature using transcoding from sequential data to amino acid sequence." High Performance Computing and Simulation (HPCS), 2013 International Conference on. IEEE, 2013. [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/HPCS_2013_Malware.pdf)]
+- **Yue Zhao**, Yong Tang, Yijie Wang, Shuhui Chen. "Generating malware signature using transcoding from sequential data to amino acid sequence". High Performance Computing and Simulation (HPCS), 2013 International Conference on. IEEE, 2013. [[Paper](https://github.com/Yue-ZHAO/Yue-Zhao.github.io/blob/master/Publications/Papers/HPCS_2013_Malware.pdf)]
 
 ## Projects
 
@@ -59,6 +65,8 @@ My publication can be found on [Google Scholar](https://scholar.google.nl/citati
 
 
 ## Professional Activities
+
+- PC member, [13th European Conference on Technology Enhanced Learning](http://www.ec-tel.eu/index.php?id=805)
 
 - Invited reviewer, [IEEE Transactions on Learning Technologies](https://www.computer.org/web/tlt;jsessionid=0060234d0f580a4851b548ea37d5)
 
@@ -78,7 +86,12 @@ EEMCS, Web Information Systems
 P.O. Box 5031, 2600 GA Delft 
 The Netherlands 
 
-***Office:*** HB 08.130 
+***Office:***
+
+Building 28
+Room: E4.040
+Van Mourik Broekmanweg 6, 2628 XE Delft
+The Netherlands
 
 ***Email:*** y-zhao-1[at]tudelft.nl or zhaoyue.89[at]gmail.com
 
